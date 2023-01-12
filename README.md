@@ -1,2 +1,2 @@
-# ae567-pmcmc
-Estimation of time-varying parameters by on system-state augmentation and particle Markov-chain Monte Carlo (PMCMC). 
+# Estimation of time-varying parameters 
+This project aims to explore system identification. Specifically, the project focuses on following and reconstructing the results obtained by Dureau et al. The parameters of the SEIR disease model is inferred via a combination of system-state augmentation and adaptive particle Markov chain Monte Carlo (PMCMC). More details could be found in the final report under 1_report. 
